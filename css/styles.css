@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {
+  color: blue;
+  font-weight: lighter;
+  text-align: center;
+  font-family: monospace;
+}
+
+p {
+  text-align: center;
+  line-height: normal;
+  font-style: italic;
+}
