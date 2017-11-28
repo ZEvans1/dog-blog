@@ -29,3 +29,12 @@ p {
   line-height: normal;
   font-style: italic;
 }
+
+.light-font {
+  color: white;
+  background-color: black;
+}
+
+#normal-text {
+  display: none;
+}
